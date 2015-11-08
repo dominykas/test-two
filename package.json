@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dominykas/test-two/issues"
   },
-  "homepage": "https://github.com/dominykas/test-two#readme"
+  "homepage": "https://github.com/dominykas/test-two#readme",
+  "dependencies": {
+    "@dominykas/test-one": "^1.0.0"
+  }
 }
